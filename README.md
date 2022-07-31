@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Para me conhecer melhor, segue as minhas redes sociais abaixo!
+  ### Para me conhecer melhor, segue abaixo as minhas redes sociai!
  
 <div> 
    <a href="https://www.instagram.com/alanbachega/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
